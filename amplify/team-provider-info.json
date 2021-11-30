@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-angularmaterialio-dev-145525-authRole",
+            "UnauthRoleArn": "arn:aws:iam::403714605989:role/amplify-angularmaterialio-dev-145525-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::403714605989:role/amplify-angularmaterialio-dev-145525-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-angularmaterialio-dev-145525-deployment",
+            "UnauthRoleName": "amplify-angularmaterialio-dev-145525-unauthRole",
+            "StackName": "amplify-angularmaterialio-dev-145525",
+            "StackId": "arn:aws:cloudformation:ap-south-1:403714605989:stack/amplify-angularmaterialio-dev-145525/61b9de30-484f-11ec-8990-06fbb5444a78",
+            "AmplifyAppId": "dx430eng8davj"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dx430eng8davj",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
